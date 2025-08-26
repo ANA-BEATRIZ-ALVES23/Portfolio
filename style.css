@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
-
 <<<<<<< HEAD
 
 :root {
@@ -13,7 +12,7 @@
 }
 
 #body {
-    background-color: var(--cor-azulclaro);
+    background-color: var(--cor-roxoclaro);
 }
 
 #rodape {
@@ -34,7 +33,7 @@
 }
 
 :root {
-       --cor-principal: #9c24e2;
+   --cor-principal: #9c24e2;
     --cor-escura: #47354b;
     --cor-cinza: #aa98b0;
     --cor-roxoclaro: #d13bff;
